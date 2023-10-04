@@ -9,4 +9,4 @@ Run this command: ``docker build -t watch_next ./``
 Run this command: ``'docker run -it watch_next'``
 
 --------------------------------
-> Project Complete By: Olis
+> Project Complete By: ISMAIL OLAGOKE
